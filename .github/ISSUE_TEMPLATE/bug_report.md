@@ -1,38 +1,38 @@
 ---
-name: Bug report
+name: Bug
 about: 버그를 빨리 해결할 수 있게 도와 주세요
 title: "[Bug]"
-labels: bug
+labels: 버그가 있어요(bug)
 assignees: KwangSeongMoon
 
 ---
 
-**버그에 대한 방법**
-어떤 버그인지 간결하게 설명해 주세요.
+**버그 설명**
+어떤 문제가 있었는지 명확하고 간결하게 알려주세요.
 
 **재현 방법**
-어떤 식으로 발생했는지 순서대로 적어주세요:
-1. 어디를 가서 '...'
-2. 어떤걸 클릭했더니 '....'
-3. 화면에 '....'
-4. 에러가 나왔다.
+다음 순서로 작업할 때 버그가 발생합니다.(예시)
+1. OO으로 이동하고
+2. OO을 클릭하고
+3. OO을 스크롤하면
+4. 에러가 발생함
 
-**예상 응답**
-어떤 결과를 얻을 것으로 생각했는지 적어주세요.
+**원래 의도한 작동**
+원래 어떻게 작동했어야 하는지 명확하고 간결하게 알려주세요
 
-**화면 캡쳐**
-가능하면 캡쳐된 화면으로도 설명해주세요.
+**스크린샷**
+버그가 발생한 장면을 이미지로 남겨주세요
 
-**Desktop (please complete the following information)**
- - 운영체제: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+- 이미지 드래그 삽입 :  
 
-**Smartphone (please complete the following information)**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+**컴퓨터에서 발생한 경우**
+- 운영체제: (예: Windows 10 Enterprise 64 bit)
+- 브라우저: (예: 크롬 버전 00)
 
-**Additional context**
-Add any other context about the problem here.
+**스마트폰에서 발생한 경우**
+- 단말기: (예: iPhone6)
+- 운영체제: (예: iOS8.1)
+- 브라우저: (예: safari 버전 00)
+
+**기타**
+기타 문제가 발생한 상황을 알려주세요
