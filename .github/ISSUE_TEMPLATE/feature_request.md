@@ -2,8 +2,8 @@
 name: Feature request
 about: 이 프로젝트에 대한 아이디어를 제안
 title: ''
-labels: ''
-assignees: ''
+labels: enhancement
+assignees: KwangSeongMoon
 
 ---
 
