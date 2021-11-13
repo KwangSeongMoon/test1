@@ -10,18 +10,18 @@ assignees: KwangSeongMoon
 **버그에 대한 방법**
 어떤 버그인지 간결하게 설명해 주세요.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**재현 방법**
+어떤 식으로 발생했는지 순서대로 적어주세요:
+1. 어디를 가서 '...'
+2. 어떤걸 클릭했더니 '....'
+3. 화면에 '....'
+4. 에러가 나왔다.
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**예상 응답**
+어떤 결과를 얻을 것으로 생각했는지 적어주세요.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**화면 캡쳐**
+가능하면 캡쳐된 화면으로도 설명해주세요.
 
 **Desktop (please complete the following information):**
  - OS: [e.g. iOS]
